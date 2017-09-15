@@ -7,7 +7,9 @@ User stories:
 Download and run on localhost.
 
 Example usage:
-https://localhost/freecodecamp-timestamp_microservice/December%2015,%202015
-https://localhost/freecodecamp-timestamp_microservice/1450137600
+localhost/freecodecamp-timestamp_microservice/December%2015,%202015
+localhost/freecodecamp-timestamp_microservice/1450137600
+
+
 Example output:
 { "unix": 1450137600, "natural": "December 15, 2015" }
