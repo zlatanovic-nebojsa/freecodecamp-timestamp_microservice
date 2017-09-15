@@ -52,10 +52,10 @@ header('Content-type: application/json');
                 <ul>3) If it does not contain a date or Unix timestamp, it returns null for those properties.</ul>
             </blockquote>
             <h3>Example usage:</h3>
-            <code>localhost/freecodecamp-timestamp_microservice/December%2015,%202015
+            <code>localhost/freecodecamp-timestamp_microservice-master/December%2015,%202015
 
 </code><br>
-            <code>localhost/freecodecamp-timestamp_microservice/1450137600
+            <code>localhost/freecodecamp-timestamp_microservice-master/1450137600
 
 </code>
             <h3>Example output:</h3>
